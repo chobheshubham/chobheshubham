@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Shubham Chobhe
 
-<!--
-**chobheshubham/chobheshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 **Data Analyst** with 2.6 years of hands-on experience
+- 🎓 Currently diving into **Data Science**
+- 🧩 Enthusiastic about all things data—love playing with numbers, patterns, and insights!
+
+## 🛠️ Skills
+
+- **Excel**: Advanced data manipulation & reporting
+- **SQL**: Querying, cleaning, and transforming data
+- **Power BI & DAX**: Interactive dashboards & data modeling
+- **Python**: Data analysis, visualization, and automation
+
+## 🌱 Currently Learning
+
+- Data Science concepts (Machine Learning, Statistics)
+- Python for data science
+- Advanced analytics & predictive modeling
+
+## 📈 What Drives Me
+
+Curiosity! I’m passionate about uncovering insights hidden in data and leveraging them to solve real-world problems.
+
+## 🔗 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/shubham-chobhe-80b808141)
+
+---
+
+_Always eager to collaborate, learn, and share knowledge. Let’s turn data into actionable insights together!_
